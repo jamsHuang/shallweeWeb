@@ -4,4 +4,24 @@ footer {
   bottom: 0;
   width: 100%;
   justify-content: center;
+  flex-direction:column;
+  .contact{
+    display:flex;
+    vertical-align: middle;
+    margin-bottom:0.3em;
+    justify-content: center;
+    li{
+      display: inline-flex;
+      a{
+        padding: 0 2em;
+        &:hover{
+          color: black;
+        }
+      }
+    }
+  }
+  .copyright{
+    display: flex;
+    justify-content: center;
+  }
 }

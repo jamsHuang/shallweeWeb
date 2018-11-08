@@ -1,0 +1,9 @@
+a {
+  color: $color0;
+  &:hover {
+    color: $color1;
+  }
+  &:visited {
+    color: $color2;
+  }
+}

@@ -8248,8 +8248,15 @@ a:visited {
   color: #BDBDBD;
 }
 
+body {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
 .keyview {
-  width: 100vw;
+  position: relative;
+  width: 100%;
   height: 100vh;
   display: block;
 }

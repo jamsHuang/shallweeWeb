@@ -8169,6 +8169,7 @@ a.text-dark:hover, a.text-dark:focus {
 header {
   display: block;
   position: fixed;
+  width: 100%;
 }
 
 footer {

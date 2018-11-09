@@ -8264,13 +8264,13 @@ body {
 }
 
 .keyview .logo {
-  width: 200px;
+  width: 168px;
   height: auto;
   position: absolute;
   left: 50%;
   top: 50%;
   margin-top: -100px;
-  margin-left: -100px;
+  margin-left: -84px;
 }
 
 .keyview .logo img {
